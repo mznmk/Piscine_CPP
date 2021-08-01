@@ -6,7 +6,7 @@
 /*   By: mmizuno <mmizuno@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/01 14:22:05 by mmizuno           #+#    #+#             */
-/*   Updated: 2021/08/01 20:26:13 by mmizuno          ###   ########.fr       */
+/*   Updated: 2021/08/01 20:54:04 by mmizuno          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 //                                                                            //
 //                Account.class.cpp for GlobalBanksters United                //
 //                Created on  : 2021/08/01 14:22:05                           //
-//                Last update : 2021/08/01 14:22:05                           //
+//                Last update : 2021/08/01 20:26:13                           //
 //                Made by : Mika "Fuckin" Mizuno <mmizuno@gbu.com>            //
 //                                                                            //
 // ************************************************************************** //
